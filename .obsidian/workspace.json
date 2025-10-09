@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Publish/index.md",
+                "file": "publish/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Publish/index.md",
+                "file": "publish/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Publish/index.md",
+                "file": "publish/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Publish/index.md",
+                "file": "publish/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -170,10 +170,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "59c6f649d2711bc3",
+  "active": "d8f3e17a0e9fad6b",
   "lastOpenFiles": [
     "README.md",
-    "Publish/index.md",
-    "Publish"
+    "publish/index.md",
+    "publish"
   ]
 }
